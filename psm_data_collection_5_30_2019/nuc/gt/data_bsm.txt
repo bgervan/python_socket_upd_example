@@ -1,0 +1,12 @@
+{'seq': 105315, 'pedid': 1, 'longitude': -82.839206833, 'rsu_timestamp': 1559245374785, 'timestamp': 1559245374781, 'latitude': 34.675354167, 'speed': 0.16106399999999998, 'nuc_timestamp': 1559245374932.249}
+{'seq': 105316, 'pedid': 1, 'longitude': -82.839206667, 'rsu_timestamp': 1559245374945, 'timestamp': 1559245374941, 'latitude': 34.675354, 'speed': 0.05368800000000001, 'nuc_timestamp': 1559245375063.8638}
+{'seq': 105317, 'pedid': 1, 'longitude': -82.839206667, 'rsu_timestamp': 1559245375080, 'timestamp': 1559245375077, 'latitude': 34.675354, 'speed': 0.05368800000000001, 'nuc_timestamp': 1559245375195.4207}
+{'seq': 105318, 'pedid': 1, 'longitude': -82.839206667, 'rsu_timestamp': 1559245375216, 'timestamp': 1559245375213, 'latitude': 34.675354, 'speed': 0.131983, 'nuc_timestamp': 1559245375333.5996}
+{'seq': 105319, 'pedid': 1, 'longitude': -82.839206333, 'rsu_timestamp': 1559245375368, 'timestamp': 1559245375366, 'latitude': 34.675353667, 'speed': 0.116324, 'nuc_timestamp': 1559245375496.3486}
+{'seq': 105320, 'pedid': 1, 'longitude': -82.839206333, 'rsu_timestamp': 1559245375511, 'timestamp': 1559245375507, 'latitude': 34.675353667, 'speed': 0.116324, 'nuc_timestamp': 1559245375634.3699}
+{'seq': 105321, 'pedid': 1, 'longitude': -82.8392065, 'rsu_timestamp': 1559245375648, 'timestamp': 1559245375644, 'latitude': 34.675353667, 'speed': 0.060399, 'nuc_timestamp': 1559245375765.889}
+{'seq': 105322, 'pedid': 1, 'longitude': -82.839206, 'rsu_timestamp': 1559245375784, 'timestamp': 1559245375780, 'latitude': 34.6753535, 'speed': 0.20133, 'nuc_timestamp': 1559245375897.5095}
+{'seq': 105323, 'pedid': 1, 'longitude': -82.839205333, 'rsu_timestamp': 1559245375946, 'timestamp': 1559245375943, 'latitude': 34.675353167, 'speed': 0.541354, 'nuc_timestamp': 1559245376120.185}
+{'seq': 105324, 'pedid': 1, 'longitude': -82.839205333, 'rsu_timestamp': 1559245376087, 'timestamp': 1559245376083, 'latitude': 34.675353167, 'speed': 0.541354, 'nuc_timestamp': 1559245376236.1907}
+{'seq': 105325, 'pedid': 1, 'longitude': -82.839204833, 'rsu_timestamp': 1559245376223, 'timestamp': 1559245376219, 'latitude': 34.675353167, 'speed': 0.510036, 'nuc_timestamp': 1559245376352.1384}
+{'seq': 105326, 'pedid': 1, 'longitude': -82.839205, 'rsu_timestamp': 1559245376376, 'timestamp': 1559245376373, 'latitude': 34.675353167, 'speed': 0.10961300000000002, 'nuc_timestamp': 1559245376499.3147}
